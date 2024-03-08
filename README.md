@@ -1,6 +1,6 @@
-## userAuth Full-Stack Assignment
+## Userauth Full-Stack Assignment
 
-This project implements a web application userAuth, featuring user registration, post listings, and secure API endpoints.
+This project implements a web application Userauth, featuring user registration, post listings, and secure API endpoints.
 
 **Technology Stack**
 
@@ -55,12 +55,12 @@ This project implements a web application userAuth, featuring user registration,
     ```
 2. **Install dependencies (Backend):** 
     ```bash
-    cd userAuth/backend
+    cd Userauth/backend
     npm install 
     ```
 3. **Install dependencies (Frontend):** 
     ```bash
-    cd userAuth/frontend
+    cd Userauth/frontend
     npm install 
     ```
 4. **Database configuration:**
