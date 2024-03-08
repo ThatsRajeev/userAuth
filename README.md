@@ -1,13 +1,13 @@
 ## MelodyVerse Full-Stack Assignment
 
-This project implements a web application called MelodyVerse, featuring user registration, post listings, and secure API endpoints.
+This project implements a web application, featuring user registration, post listings, and secure API endpoints.
 
 **Technology Stack**
 
 * **Backend:**
     * Node.js 
-    * Express.js (or other suitable framework)
-    * Database (MongoDB, PostgreSQL, MySQL, etc.)
+    * Express.js 
+    * Database (MongoDB)
     * jsonwebtoken (JWT) 
 * **Frontend:**
     * React.js
@@ -46,19 +46,6 @@ This project implements a web application called MelodyVerse, featuring user reg
 *  Informative error handling.
 *  Well-structured and documented code.
 *  Environment variables for sensitive data.
-
-**Bonus Features (consider implementing)**
-
-* Password reset
-* Email verification
-* Rate limiting
-* Authentication/authorization middleware
-* API endpoint unit tests
-* Social login (mock APIs)
-* Password visibility toggle
-* Animations/microinteractions (Framer Motion)
-* Accessibility features
-* React component unit tests (Jest etc.)
 
 **Installation and Setup**
 
