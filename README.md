@@ -1,6 +1,6 @@
-## MelodyVerse Full-Stack Assignment
+## userAuth Full-Stack Assignment
 
-This project implements a web application, featuring user registration, post listings, and secure API endpoints.
+This project implements a web application userAuth, featuring user registration, post listings, and secure API endpoints.
 
 **Technology Stack**
 
@@ -55,12 +55,12 @@ This project implements a web application, featuring user registration, post lis
     ```
 2. **Install dependencies (Backend):** 
     ```bash
-    cd melodyverse/backend
+    cd userAuth/backend
     npm install 
     ```
 3. **Install dependencies (Frontend):** 
     ```bash
-    cd melodyverse/frontend
+    cd userAuth/frontend
     npm install 
     ```
 4. **Database configuration:**
